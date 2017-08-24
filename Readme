@@ -17,10 +17,10 @@ The following advanced challenges are optional:
 * [X]  Bonus 1: IDOR Challenge 2 
 * [X]  Bonus 2: IDOR Bank Challenge 3
 ### Video Walkthrough
-Here's a walkthrough of implemented user stories #1 - But all checked as done for my username 'drbyronw' :
-<img src='https://github.com/username/repow/raw/master/name-of-file.gif' width='' alt='Video Walkthrough' />
+Here's a walkthrough of implemented user stories #1 - But all checked as done for my username 'mcp352' :
+<img src='https://github.com/mcp352/Week1-lab/blob/master/D6636A65-3D0A-458B-91A7-C5E323B7BDD3.GIF' width='' alt='Video Walkthrough' />
 ### Notes
-Burp ran pretty slowly on my Macbook - it kept hanging for some reason and I actually received a low memory warning for the first time. There were a few issues getting the security certificate setup on Chrome. The recommeded solution to fix was for me to do XXYYZZ. 
+ 
 ##### License
     Copyright [2017] [Byron Williams]
     Licensed under the Apache License, Version 2.0 (the "License");
